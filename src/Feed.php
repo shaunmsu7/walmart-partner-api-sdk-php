@@ -11,6 +11,7 @@ namespace Walmart;
 class Feed extends BaseClient
 {
     /**
+     * just a comment
      * @param array $config
      * @param string $env
      */
